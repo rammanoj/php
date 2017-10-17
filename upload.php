@@ -1,4 +1,4 @@
-php
+<?php
 	if($_POST['submit']){
 	echo "helloworld";
 	if(isset($_FILES['filename'])){
