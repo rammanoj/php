@@ -67,4 +67,3 @@ else{
 	echo " you have not filled the registration form completely so please it";
 }
 }
-?>
