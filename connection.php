@@ -1,4 +1,4 @@
-<php
+<?php
 
 #connect to your datbase by creating a new PDO object 
 #if no errors encountered it displays a blank page
